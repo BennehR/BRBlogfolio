@@ -14,15 +14,9 @@
 
     <!--Determine if this is the dev environment or not-->
     <?php 
-        $prodEnv = 'http://br.x10.com';
-        $parsedProd = parse_url($prodEnv);
-
         $host = explode('.', $_SERVER['HTTP_HOST']);
-
         $subdomain = $host[0];
-
         $baseURL = '';
-
         if ($subdomain == 'dev') {
             $baseURL = '/home/brx10hos/public_html/dev/';
         }
