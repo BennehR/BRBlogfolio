@@ -12,7 +12,26 @@
 </head>
 <body>
 
-    <?php include ("/home/brx10hos/public_html/navbar.php"); ?>
+    <!--Determine if this is the dev environment or not-->
+    <?php 
+        $prodEnv = 'http://br.x10.com';
+        $parsedProd = parse_url($prodEnv);
+
+        $host = explode('.', $_SERVER['HTTP_HOST']);
+
+        $subdomain = $host[0];
+
+        $baseURL = '';
+
+        if ($subdomain == 'dev') {
+            $baseURL = '/home/brx10hos/public_html/dev/';
+        }
+        else {
+            $baseURL = '/home/brx10hos/public_html/';
+        }
+     ?>
+     <!--Get the navbar script using previous determination-->
+     <?php include ($baseURL."navbar.php"); ?>
 
     <div class="container-fluid" id="breadcrumbs">
         <div class="row">
