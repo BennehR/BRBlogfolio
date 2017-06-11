@@ -20,8 +20,8 @@
                 <ul class="breadcrumb">
                     <li>You are here</li>
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">3D Work</a></li>
-                    <li><a href="#">University</a></li>
+                    <li>3D Work</li>
+                    <li>University</li>
                 </ul>
             </div>
         </div>
