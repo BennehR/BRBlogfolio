@@ -1,0 +1,107 @@
+﻿
+/* Navbar formatting */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar .navbar-nav > li > a,
+.navbar-nav > li > .dropdown-menu a,
+.navbar .navbar-header > a {
+    font-weight: bold;
+    font-size: large;
+    color: #E7DFDD;
+}
+
+.navbar .navbar-nav > .active > a {
+    color: #E7DFDD;
+    /*background-color: #493f65;*/
+}
+
+.navbar .navbar-header > a {
+    font-size: 25px;
+    color: #E7DFDD;
+}
+
+.navbar,
+.navbar .navbar-nav > li > a,
+.navbar .navbar-header > a,
+.navbar-nav > li > .dropdown-menu {
+    background-color: #0E0B16;
+}
+
+.logo {
+    width: auto;
+    height: 100%;
+}
+
+.jumbotron.bannerImg {
+    background-image: url("images/banner.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbotron > .jumboLogo {
+    height: 140px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.breadcrumb {
+    background-color: #1d1c1e;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+html {
+    height: 100%;
+}
+
+.topBuffer {
+    margin-top: 15px;
+}
+
+.botBuffer {
+    margin-bottom: 15px;
+}
+
+.boxContent {
+    /*border: solid 1px white;*/
+    border-radius: 10px;
+    background-color: rgba(231, 223, 221, 0.8);
+    color: #0E0B16;
+}
+
+.boxContainer {
+    background-color: rgba(255, 0, 0, 0.70);
+}
+
+.boxLeft {
+    border-radius: 10px 0px 0px 10px;
+}
+.boxRight {
+    border-radius: 0px 10px 10px 0px;
+}
+
+body {
+    padding-top: 50px;
+    color: #E7DFDD;
+    background: #A239CA;
+    background: -webkit-linear-gradient(#0E0B16, #A239CA, #0E0B16);
+    background: -o-linear-gradient(#0E0B16, #A239CA, #0E0B16);
+    background: -moz-linear-gradient(#0E0B16, #A239CA, #0E0B16);
+    background: linear-gradient(#0E0B16, #0E0B16, #A239CA, #0E0B16, #0E0B16, #0E0B16);
+    background-repeat: no-repeat;
+    background-color: #0E0B16
+}
+
+.fill {
+    background-color: black;
+}
+
