@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <?php include ("navbar.php"); ?>
+    <?php include ("/home/brx10hos/public_html/navbar.php"); ?>
 
     <div class="container-fluid" id="breadcrumbs">
         <div class="row">
