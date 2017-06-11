@@ -11,7 +11,7 @@
 
             <div class="collapse navbar-collapse" id="myNavBar">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="/index.php">Home</a></li>
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                             3D Work
