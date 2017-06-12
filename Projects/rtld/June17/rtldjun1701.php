@@ -48,14 +48,14 @@
                 <h1>The Concept</h1>
                 <p>
                 Ludum dare has always been somthing that has interested me. I took a diploma in college for Games Design as I've always had a passion and interest in that field.
-                Coupled with a university degree in 3D Animation & Modelling I have the right base skills for this kind of thing, but theres a catch.
+                Coupled with a university degree in 3D Animation &amp; Modelling I have the right base skills for this kind of thing, but theres a catch.
                 <br />
                 I've never been great at coding, its been an interest but somthing that's always been brushed off as somthing I cant do, or too complicated to learn. 
                 The second issue is after finishing University my student license for 3DS Max ran out, and all access to the software is lost.
                 Having spent 5+ years using 3DS Max I've been reluctant to learn anything else due to the learning curve and habits that are already ingrained from my course and time in the software.
                 <br />
                 Recently I got myself Blender, somthing I have used in the past in college but never really got to grips with completely due to lack of training and/or interest at the time.
-                I started to watch some tutorials, read some articles and decided to give it ago and started taking part in modelling for a twitter daily event <a href="https://twitter.com/search?q=%23lowpoly_dailies&src=tyah&lang=en">#LowPoly_Dailies</a> where you model somthing, in low poly about a given topic each day.
+                I started to watch some tutorials, read some articles and decided to give it ago and started taking part in modelling for a twitter daily event <a href="https://twitter.com/search?q=%23lowpoly_dailies%26src=tyah%26lang=en">#LowPoly_Dailies</a> where you model somthing, in low poly about a given topic each day.
                 <br />
                 It only took two of these models to relight a passion in me for 3D and I decided with my new skills in coding I can take on Ludum Dare, but not just yet.
                 </p>
@@ -76,6 +76,6 @@
             <div class="col-sm-1"></div>
         </div>
     </div>
-    
+
 </body>
 </html>
