@@ -78,6 +78,7 @@
                 <br />There are two parts to the site, live and dev. The live side of the website is probably what your seeing now, the development side is where I will be testing any changes to the site before rolling them out to the live environment.
                 This is how its done in the professional world, so I decided to replicate it with a sub-domain.
                 <br />You can see the dev environemnt (although there may not be any difference most of the time) at <a href="dev.br.x10host.com">dev.br.x10host.com</a>.
+                <br />The website is also on GitHub for anyone inclined to see how it is put together.
                 </p>
             </div>
             <div class="col-sm-1"></div>
