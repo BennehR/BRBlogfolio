@@ -69,7 +69,7 @@
             <div class="col-sm-10 boxContent topBuffer">
                 <ul class="pager">
                     <li class="previous disabled">&larr; Older</li>
-                    <li><a href="/Projects/rtld.php">Contents</a></li>
+                    <li><a href="/Projects/rtld/rtld.php">Contents</a></li>
                     <li class="next"><a href="#">Newer &rarr;</a></li>
                 </ul>
             </div>
