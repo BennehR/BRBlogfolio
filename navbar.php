@@ -18,10 +18,8 @@
                             <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a href="/3DWork/University/university.php">Univerity</a></li>
-                            <li><a href="#">Page 2</a></li>
-                            <li><a href="#">Page 3</a></li>
-                            <li><a href="#">Page 4</a></li>
+                            <li><a href="/3DWork/University/university.php">Univerity (WIP)</a></li>
+                            <li><a href="#">Personal (WIP)</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -30,13 +28,11 @@
                             <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Page 1</a></li>
-                            <li><a href="#">Page 2</a></li>
-                            <li><a href="#">Page 3</a></li>
-                            <li><a href="#">Page 4</a></li>
+                            <li><a href="#">SkillControl / AutoSkill (WIP)</a></li>
+                            <li><a href="#">Misc/Small Projects (WIP)</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Projects</a></li>
+                    <li><a href="/Projects/projects.php">Projects</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#">Contact</a></li>
