@@ -71,6 +71,14 @@ html {
     margin-bottom: 15px;
 }
 
+.leftBuffer {
+    margin-left: 5px;
+}
+
+.rightBuffer {
+    margin-right: 5px;
+}
+
 .boxContent {
     /*border: solid 1px white;*/
     border-radius: 10px;

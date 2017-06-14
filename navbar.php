@@ -32,6 +32,7 @@
                             <li><a href="#">Misc/Small Projects (WIP)</a></li>
                         </ul>
                     </li>
+                    <li><a href="/GamesDesign/gdesign.php">Games Design</a></li>
                     <li><a href="/Projects/projects.php">Projects</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">

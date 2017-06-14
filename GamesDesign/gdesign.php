@@ -33,6 +33,7 @@
                 <ul class="breadcrumb">
                     <li>You are here</li>
                     <li><a href="/index.php">Home</a></li>
+                    <li>Games Design</li>
                 </ul>
             </div>
         </div>
@@ -42,10 +43,24 @@
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10 boxContent topBuffer">
+                <h1>Games Design</h1>
+                <p>Here's where I'll detail my Games Design projects (that aren't related to Road To Ludum Dare).
+                <br />It's mostly Unreal Engine at this stage, but may grow in the future as I learn more skills.
+                </p>
+            </div>
+            <div class="col-sm-1"></div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-1">
                 
             </div>
             <div class="col-sm-1"></div>
         </div>
+    </div>    
      
 </body>
 </html>
